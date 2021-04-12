@@ -1,1 +1,0 @@
-create table st01(id MEDIUMINT NOT NULL AUTO_INCREMENT, uname char(25) NOT NULL, num int(10)NOT NULL, addr varchar(255)NOT NULL, quer varchar(255)NOT NULL, submission timestamp, PRIMARY KEY (id));
