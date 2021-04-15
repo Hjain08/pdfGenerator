@@ -72,7 +72,7 @@
  				</table>
 
  				<div class="text-center">
- 					<a href="print.php" class="btn btn-primary">Print</a>
+ 					<a href="invoice.php" class="btn btn-primary">Print</a>
  				</div>
 
  		</div>
